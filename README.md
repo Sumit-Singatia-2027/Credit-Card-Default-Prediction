@@ -25,7 +25,7 @@ The primary goal is to use historical data to build a machine learning model tha
 #### The dataset consists of two main files:
 - Development Data: 96,806 credit card records with input features and the bad_flag (target variable).
 - Validation Data: 41,792 credit card records with the same input features but without the target. Used for inference only.
-- Data set links:-
+- Data set links:-https://drive.google.com/drive/folders/1kd89b8YZ3BLyiqKgFEdVDcICSga0BjaC?usp=drive_link
 - Dev_data_to_be_shared- Training dat
 - validation_data_to_be_shared- Testing data
 - my_dataframe- imputed data to fill training data(needed in code)
