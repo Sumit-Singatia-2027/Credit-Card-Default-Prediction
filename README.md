@@ -1,8 +1,7 @@
 # Credit-Card-Default-Prediction
 A machine learning model to predict credit card default risk based on customer behavior, transactions, and credit bureau data. Developed for Bank A as part of an IIT Bombay case study to enable risk-based management of existing credit card customers.
 # Credit Card Behavior Score Prediction
-### Overview
-This project is part of a case study from IIT Bombay for Bank A, focused on developing a Behaviour Score for existing credit card customers. The Behaviour Score is a predictive model that estimates the probability of default for each customer, helping the bank manage credit risk more effectively.
+
 
 The primary goal is to use historical data to build a machine learning model that predicts the likelihood of a customer defaulting on their credit card payments. This model can then be deployed for risk-based customer management and portfolio optimization.
 
